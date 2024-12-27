@@ -8,4 +8,4 @@ WORKDIR /
 
 EXPOSE 3838
 
-CMD R -e 'shiny::runApp("app.R", port = 3838, host = "0.0.0.0")'
+CMD R -e 'shiny::runApp("app.R", port = 3839, host = "0.0.0.0")'
