@@ -1,3 +1,15 @@
+library(shinymanager);library(RSQLite);library(DBI)
+
+# Security Settings
+credentials <- data.frame(
+  user = c("shiny", "shinymanager"),
+  password = c("shiny", "shinymanager"), stringsAsFactors = FALSE,
+  admin = c(FALSE, TRUE))
+
+create_db(credentials_data = credentials,
+          sqlite_path = "database.sqlite")
+
+# UI
 ui <- fluidPage(
   
   # Application title
@@ -18,9 +30,16 @@ ui <- fluidPage(
       plotOutput("distPlot")
     )
   )
-)
+) 
 
-server <- function(input, output) {
+ui <- secure_app(ui, enable_admin = TRUE)
+
+
+# Server
+server <- function(input, output, session) {
+  res_auth <- secure_server(
+    check_credentials = check_credentials("database.sqlite"))
+  
   output$distPlot <- renderPlot({
     # generate bins based on input$bins from ui.R
     x    <- mtcars$hp

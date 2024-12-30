@@ -1,6 +1,8 @@
+# base image
 FROM rocker/shiny-verse:latest
 
-RUN apt-get update && apt-get install -y
+# Install required R packages
+RUN R -e "install.packages(c('shinymanager', 'DBI', 'RSQLite'))"
 
 COPY . /
 
