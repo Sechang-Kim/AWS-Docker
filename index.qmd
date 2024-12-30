@@ -1,0 +1,21 @@
+---
+title: "Spatial Data Laboratory"
+
+subtitle: |
+  **Developing Applications for Geography Education**
+
+about:
+  template: jolla
+  image: img/SNU_logo.png
+  links: 
+    - icon: rocket-takeoff
+      text: Example 1
+      href: http://15.164.96.126/app1
+    - icon: rocket-takeoff-fill
+      text: Example 2
+      href: http://15.164.96.126/app2
+toc: false
+---
+
+Welcome everyone! This is Spatial Data Science Lab (SDS-Lab) at [Department of Geography Education](https://geoedu.snu.ac.kr), Seoul National University.
+We are developing web applications for geography education, primarily using [Shiny](https://shiny.posit.co/).

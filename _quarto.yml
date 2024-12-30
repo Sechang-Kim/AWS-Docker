@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Sechang Kim"
+  navbar:
+    right:
+      - text: Home
+      - text: Members
+      - text: News
+      - text: Contact
+
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 1000px
+      margin-width: 250px
+      gutter-width: 1.0rem
+    theme:
+      - custom.scss
+    mainfont: Pretendard
+
+editor: visual
+
