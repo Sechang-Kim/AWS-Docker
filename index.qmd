@@ -10,10 +10,10 @@ about:
   links: 
     - icon: rocket-takeoff
       text: Example 1
-      href: http://15.164.96.126/app1
+      href: http://shinygeoedu/app1
     - icon: rocket-takeoff-fill
       text: Example 2
-      href: http://15.164.96.126/app2
+      href: http://shinygeoedu/app2
 toc: false
 ---
 
