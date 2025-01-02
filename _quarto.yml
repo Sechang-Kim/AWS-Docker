@@ -20,8 +20,8 @@ website:
       __Tel__: 02-880-2557 | __Office Hour__: Mon-Fri, 09:00 - 18:00 | __Lab Manager__: [Woohyung Kim](mailto:whk3423@snu.ac.kr)
     right: |
       Made with 
-      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) and
-      [![](https://posit.cloud/images/site-home/posit-logo-black-TM.svg){fig-alt="Posit" width=52px}](https://posit.co/) <br>
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/),
+      [![](https://posit.cloud/images/site-home/posit-logo-black-TM.svg){fig-alt="Posit" width=52px}](https://posit.co/) and [![](https://shiny.posit.co/images/shiny-solo.png){fig-alt="Shiny" width=30px}](https://shiny.posit.co/) <br>
       First Developed by [Sechang Kim](mailto:sechangkim97@gmail.com)<br>
       Copyright &copy; 2024 [Seoul National University](https://snu.ac.kr/)
 
