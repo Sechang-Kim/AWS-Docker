@@ -1,0 +1,68 @@
+---
+title: "Team Members"
+format: html
+---
+
+## Sang-Il Lee  [{{< bi house-fill >}}](https://sangillee.snu.ac.kr) [{{< bi envelope >}}](mailto:si_lee@snu.ac.kr)
+
+#### Position
+
+-   Professor, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   Adjunct Professor, [Department of AI-Integrated Education](https://aied.snu.ac.kr/), Seoul National University
+
+-   Adjunct Professor, [Integrated Major of Applied Data Science](https://gsds.snu.ac.kr/integrated/), [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University
+
+#### Education
+
+-   B.A., 1989, Department of Geography Education, Seoul National University
+
+-   M.A., 1991, Department of Geography Education, Seoul National University
+
+-   Ph.D., 2001, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
+
+## Sechang Kim  [{{< bi house-fill >}}](https://sechang-kim.github.io/) [{{< bi envelope >}}](mailto:vs5345@snu.ac.kr)
+
+#### Position
+
+-   Manager, [Center for Educational Research](https://eduresearch.snu.ac.kr), Seoul National University
+
+#### Education
+
+-   M.A., 2024, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   B.A., 2022, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+## Hyemin Jeon
+
+#### Position
+
+-   M.A. Student, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   Teacher, Beondong Middle School, Seoul
+
+#### Education
+
+-   B.A., 2021, [Department of Geography Education](https://geoedu.korea.ac.kr/), [Korea University](https://www.korea.ac.kr/)
+
+## Woohyeong Kim
+
+#### Position
+
+-   M.A. Student, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+#### Education
+
+-   B.A., 2024, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+## Hyekyeong Nam
+
+#### Position
+
+-   M.A. Student, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   Teacher, Doonchon High School, Seoul
+
+#### Education
+
+-   B.A., 2023, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)

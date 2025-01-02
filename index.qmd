@@ -17,5 +17,4 @@ about:
 toc: false
 ---
 
-Welcome everyone! This is Spatial Data Science Lab (SDS-Lab) at [Department of Geography Education](https://geoedu.snu.ac.kr), Seoul National University.
-We are developing web applications for geography education, primarily using [Shiny](https://shiny.posit.co/).
+Welcome everyone! This is Spatial Data Science Lab (SDS-Lab) at [Department of Geography Education](https://geoedu.snu.ac.kr), Seoul National University. We are developing web applications for geography education, primarily using [Shiny](https://shiny.posit.co/).

@@ -6,10 +6,24 @@ website:
   title: "Sechang Kim"
   navbar:
     right:
-      - text: Home
-      - text: Members
+      - href: index.qmd
+        text: Home
+      - href: members/index.qmd
+        text: Members
       - text: News
       - text: Contact
+  page-footer: 
+    border: true
+    left: |
+      __Address:__ <br>
+      10-203, College of Education, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea <br>
+      __Tel__: 02-880-2557 | __Office Hour__: Mon-Fri, 09:00 - 18:00 | __Lab Manager__: [Woohyeong Kim](mailto:whk3423@snu.ac.kr)
+    right: |
+      Made with 
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) and
+      [![](https://posit.cloud/images/site-home/posit-logo-black-TM.svg){fig-alt="Posit" width=52px}](https://posit.co/) <br>
+      First Developed by [Sechang Kim](mailto:sechangkim97@gmail.com)<br>
+      Copyright &copy; 2024 [Seoul National University](https://snu.ac.kr/)
 
 format:
   html:
