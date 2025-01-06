@@ -10,7 +10,8 @@ website:
         text: Home
       - href: members/index.qmd
         text: Members
-      - text: News
+      - href: news.qmd
+        text: News & Events
       - text: Contact
   page-footer: 
     border: true

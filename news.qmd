@@ -1,0 +1,13 @@
+---
+title: "NEWS"
+editor: visual
+listing:
+  contents: news
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+page-layout: full
+---
