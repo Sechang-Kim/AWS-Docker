@@ -4,6 +4,8 @@ project:
   
 website:
   title: "Sechang Kim"
+  website:
+    google-analytics: "G-MV9LKSLXGL"
   navbar:
     right:
       - href: index.qmd
