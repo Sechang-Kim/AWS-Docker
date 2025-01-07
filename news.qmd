@@ -6,7 +6,7 @@ listing:
   sort: "date desc"
   type: default
   image-align: right
-  max-description-length: 175
+  max-description-length: 200
   date-format: medium
   categories: true
 page-layout: full
