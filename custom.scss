@@ -7,6 +7,7 @@ button[aria-label="Toggle code"] {
 
 // import fonts
 @import url('https://webfontworld.github.io/pretendard/Pretendard.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css");
 @import url('https://cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-ligature-full.css');
 @import url('https://webfontworld.github.io/heungkuk/SimKyungha.css');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
@@ -50,6 +51,7 @@ $link-hover-color:                        shift-color($link-color, $link-shade-p
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/LINESeedKR-Bd.woff2') format('woff2');
     font-weight: 700;
 }
+
 
 
 // navbar
