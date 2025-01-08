@@ -8,6 +8,10 @@ categories:
   - AWS
   - Shiny
 image: 2024-01-01-News01.png
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css">
+      <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
 ---
 
 지리교육을 위한 교수학습자료 제작 및 공유 플랫폼(<https://shinygeoedu.com>)이 개설되었습니다. 학생의 참여를 촉진할 수 있는 인터랙티브 콘텐츠와 웹 애플리케이션을 중점적으로 개발하고자 합니다. 본 작업은 서울대학교 지리교육과 Spatial Data Science 연구실과 함께합니다.
@@ -30,7 +34,14 @@ image: 2024-01-01-News01.png
 
 두 번째, **클라우드 서버 대여**는 이러한 문제를 어느 정도 해결할 수 있는 방안이었습니다. 클라우드 서버는 한 마디로 외부의 서버를 빌려서 사용하는 것입니다. 즉, 어떤 기업(e.g. Amazon)이 보유한 서버 컴퓨터 중 일부를 빌려서, 그곳에서 사용자의 요청을 처리해주는 것이죠. 이러한 방식을 사용하면 많은 문제점이 해결됩니다. 서버용 PC를 사용할 수 있고, Linux도 사용할 수 있습니다. 그리고 초기 세팅(DNS 설정, 보안 SSL 적용 등)도 비교적 쉽다고 합니다. 가장 좋은 점은, 이게 가장 범용적인 방식이라 문제가 생겼을 때 해결책을 찾기 쉽다는 것이었습니다. 역시 생태계가 클수록 동일한 어려움을 겪는 사람도 많고, 해결 방법도 많은 것 같습니다.
 
-결론적으로, 저희는 클라우드 서버, 그 중에서도 [**Amazon Web Server (AWS)**]{.underline}를 활용하기로 했습니다. 사실 구글 클라우드 플랫폼(GCP), 마이크로소프트 애저(Azure) 등도 있지만, 하나하나 따지기보다 가장 시장 점유율이 높은 제품을 선택하기로 했습니다. 각자 약간의 장단점이 있을 뿐 어떤 하나의 제품이 월등히 나은 것 같지는 않았기 때문입니다. 다음 포스팅에서는 AWS을 이용해서 홈페이지를 제작하고, 여기에 웹 애플리케이션을 탑재하는 방법을 조금 더 이야기 해보려고 합니다.
-
+결론적으로, 저희는 클라우드 서버, 그 중에서도 [**Amazon Web Server (AWS)**]{.underline}를 활용하기로 했습니다. 사실 구글 클라우드 플랫폼(GCP), 마이크로소프트 애저(Azure) 등도 있지만, 하나하나 따지기보다 가장 시장 점유율이 높은 제품을 선택하기로 했습니다. 각자 약간의 장단점이 있을 뿐 어떤 하나의 제품이 월등히 나은 것 같지는 않았기 때문입니다. 다음 포스팅에서는 AWS을 이용해서 홈페이지를 제작하고, 여기에 웹 애플리케이션을 탑재하는 방법을 조금 더 이야기 해보려고 합니다.\
 \
-*Written by 김세창 (Sechang KIM, [vs5345\@snu.ac.kr](mailto:vs5345@snu.ac.kr))*
+*Written by 김세창 (Sechang KIM, [vs5345\@snu.ac.kr](mailto:vs5345@snu.ac.kr))\
+\
+\
+*
+
+```{=html}
+<p style="text-align:center;">Please Hit the Clap Button if You Like this Post!</p>
+<applause-button class="mb6" color=rgb(123,154,204) url=https://shinygeoedu.com/news/2025-01-01-ShinyGeoEdu-Website-is-Opening/ShinyGeoEdu%20Website%20Launches%20to%20Develop%20Teaching-Learning%20Materials%20for%20Geography%20Education.html></applause-button>
+```

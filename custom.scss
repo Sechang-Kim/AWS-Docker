@@ -158,6 +158,16 @@ figcaption{
   font-family: "Pretendard Variable";
 }
 
+applause-button {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+
+  .count-container {
+    color: inherit;
+  }
+}
+
 // The left hand sidebar
 $quarto-sidebar-width: 150px !default;
 
