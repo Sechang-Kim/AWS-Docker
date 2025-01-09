@@ -4,6 +4,14 @@ project:
   
 website:
   title: "Sechang Kim"
+  comments:
+    giscus: 
+      repo: Sechang-Kim/AWS-Docker
+      repo-id: R_kgDONiYMhA
+      category: Announcements
+      category-id: DIC_kwDONiYMhM4Cl3IS
+      mapping: pathname
+      input-position: bottom
   google-analytics: "G-MV9LKSLXGL"
   navbar:
     right:

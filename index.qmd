@@ -14,6 +14,7 @@ about:
     - icon: rocket-takeoff-fill
       text: Example 2
       href: http://shinygeoedu.com/app2
+comments: false
 toc: false
 ---
 
