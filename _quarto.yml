@@ -12,6 +12,7 @@ website:
       category-id: DIC_kwDONiYMhM4Cl3IS
       mapping: pathname
       input-position: bottom
+      theme: light
   google-analytics: "G-MV9LKSLXGL"
   navbar:
     right:
