@@ -24,6 +24,12 @@ include-in-header:
         "name": "Geography Education Platform"
         "alternateName": "ShinyGeoEdu"
         "url": "https://www.shinygeoedu.com/"
+        "logo": "https://github.com/Sechang-Kim/AWS-Docker/blob/main/img/android-chrome-512x512.png"
+        "sameAs": [
+        "https://shinygeoedu.com/",
+        "http://shinygeoedu.com/",
+        "http://www.shinygeoedu.com/"
+        ]
       }
       </script>
 comments: false
