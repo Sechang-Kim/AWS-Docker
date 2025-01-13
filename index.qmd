@@ -21,7 +21,7 @@ include-in-header:
       <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "WebSite",
+        "@type": "Recipe",
         "name": "Geography Education Platform",
         "alternateName": "ShinyGeoEdu",
         "url": "https://www.shinygeoedu.com/",
