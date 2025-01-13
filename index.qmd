@@ -17,6 +17,7 @@ about:
       
 include-in-header:
   - text: |
+      <link rel="icon href="https://github.com/Sechang-Kim/AWS-Docker/blob/main/img/favicon.ico">
       <script type="application/ld+json">
       {
         "@context": "https://schema.org",
